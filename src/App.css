@@ -2,7 +2,7 @@ body {
   width: 100%;
   min-height: 100vh;
   background: linear-gradient(90deg, #FF5EDF 0%, #04C8DE 100%);
-  
+
 }
 
 
@@ -11,7 +11,11 @@ body {
 }
 
 @media only screen and (max-width: 600px){
-  body {
+  .root {
     min-width: 500px;
+  }
+
+  .detected_img {
+    width: 250px;
   }
 }
