@@ -25,7 +25,7 @@ class Register extends Component  {
     }
 
     onSubmitRegister = () => {
-      fetch("https://localhost:3000/register", {
+      fetch("https://backend-sbb2.onrender.com/register", {
         method: "post",
         headers: {"Content-Type": "application/json"},
         body: JSON.stringify({
