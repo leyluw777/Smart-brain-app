@@ -14,8 +14,4 @@ body {
   .root {
     min-width: 500px;
   }
-
-  .detected_img {
-    width: 250px;
-  }
 }
