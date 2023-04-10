@@ -6,9 +6,12 @@
 This is full stack application, builded by using technologies such as ReactJS, NodeJS, ExpressJS, PostgreSQL as well. The project consists of 3 main pages, which are SIgnIn, Registration and HomePage. First of all, you need to register on website, and after you can see the homepage, which has your entry count number and input part. The main principle of this project is recognition of faces. For this you need to paste the link of any image with the face and click detect button. The image will appear bottom and the face will be highlighted in square.
 
 
+
 <br />
 The aim of building this project is perfectioning front-end skills as well as understanding basic terms of back-end technologies.
 
+![alt text](Screenshot (42).png (file://DESKTOP-3CHIF4N/Users/Hp/Desktop/ZTM/face-recognition-app/doc-images/Screenshot%20(42).png)
+)
 
 ## Technologies
 * ReactJS
